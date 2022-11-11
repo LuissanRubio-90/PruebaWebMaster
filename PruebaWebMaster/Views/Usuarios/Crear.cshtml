@@ -1,0 +1,34 @@
+﻿@model Usuario
+@{
+    ViewData["Title"] = "Crear nuevo Usuario";
+    Layout = "../shared/_layout";
+}
+
+<h1>CREAR NUEVO USUARIO</h1>
+<h5>Formulario para crear un nuevo usuario</h5>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-controller="Usuarios" asp-action="Crear">
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label">Nombre</label>
+        <input type="text" asp-for="Nombre" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input type="text" asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Password</label>
+        <input type="text" asp-for="Password" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Telefono" class="form-label">Telefono</label>
+        <input type="text" asp-for="Telefono" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

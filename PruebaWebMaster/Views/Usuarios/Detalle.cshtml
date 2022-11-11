@@ -1,0 +1,40 @@
+﻿@model Usuario
+@{
+    ViewData["Title"] = "Crear nueva tienda";
+    Layout = "../shared/_layout";
+}
+
+<h1>DETALLE USUARIO</h1>
+<h5>Informacion general de Usuario</h5>
+<hr />
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-controller="Tiendas" asp-action="Detalle">
+    <div class="mb-3">
+        <label asp-for="Id" class="form-label"><b>Id Usuario: </b></label>
+        <label asp-for="Id" class="form-label">@Model.Id</label>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label"><b>Nombre: </b></label>
+        <label asp-for="Nombre" class="form-label">@Model.Nombre</label>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"><b>Email: </b></label>
+        <label asp-for="Email" class="form-label">@Model.Email</label>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label"><b>Password: </b></label>
+        <label asp-for="Password" class="form-label">No disponible</label>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Telefono" class="form-label"><b>Telefono: </b></label>
+        <label asp-for="Telefono" class="form-label">@Model.Telefono</label>
+    </div>
+    <a asp-action="Index" class="btn btn-success">Ir a la lista</a>
+    <hr />
+    <div class="mb-3">
+        <a asp-action="Editar" asp-route-id="@Model.Id">Ir a Editar</a>
+        <a asp-action="Eliminar" asp-route-id="@Model.Id">Ir a Eliminar</a>
+    </div>
+
+</form>

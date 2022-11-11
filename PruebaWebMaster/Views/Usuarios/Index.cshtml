@@ -1,0 +1,54 @@
+﻿@model UsuariosListado
+@{
+    ViewData["Title"] = "Listado de usuarios";
+    Layout = "../shared/_layout";
+}
+
+<h1>LISTADO DE USUARIOS</h1>
+<a asp-action="Crear">Crear nuevo usuario</a>
+
+@if (Model.Mensaje is not null)
+{
+    <div class="alert alert-success" role="alert">
+        @Model.Mensaje
+    </div>
+}
+
+@if (Model.Usuarios is not null)
+{
+    <form method="post">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <td>Nombre</td>
+                    <td>Email</td>
+                    <td>Telefono</td>
+                    <td>Config admin</td>
+                    <td>Acciones</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var usuario in Model.Usuarios)
+                {
+                    <tr>
+                        <td>@usuario.Nombre</td>
+                        <td>@usuario.Email</td>
+                        <td>@usuario.Telefono</td>
+                        <td>
+                            <button class="btn btn-primary me-2" asp-action="AsignarAdmin" asp-route-email="@usuario.Email">Asignar admin</button>
+                            <button class="btn btn-secondary me-2" asp-action="RemoverAdmin" asp-route-email="@usuario.Email">Remover admin</button>
+                        </td>
+                        <td>
+                            <a asp-action="Editar" asp-route-id="@usuario.Id">Editar</a>
+                            <a asp-action="Eliminar" asp-route-id="@usuario.Id">Eliminar</a>
+                            <a asp-action="Detalle" asp-route-id="@usuario.Id">Ver detalle</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </form>
+}else
+{
+        <p>No hay usuarios para mostrar.</p>
+}

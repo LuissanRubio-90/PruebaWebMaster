@@ -1,0 +1,26 @@
+﻿@model Tienda
+@{
+    ViewData["Title"] = "Editar Tienda";
+}
+
+<h1>EDITAR TIENDA</h1>
+<h5>Formulario para editar una tienda existente</h5>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-controller="Tiendas" asp-action="Editar">
+    <input type="text" asp-for="Id" class="form-control" hidden="true"/>
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label">Nombre</label>
+        <input type="text" asp-for="Nombre" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Direccion" class="form-label">Direccion</label>
+        <input type="text" asp-for="Direccion" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Telefono" class="form-label">Telefono</label>
+        <input type="text" asp-for="Telefono" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-info">Editar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

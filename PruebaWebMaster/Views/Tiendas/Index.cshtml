@@ -1,0 +1,77 @@
+﻿@using PruebaWebMaster.Services
+@model IEnumerable<Tienda>
+@{
+    ViewData["Title"] = "Crear nueva tienda";
+}
+
+<h1>LISTA DE TIENDA</h1>
+<a asp-action="Crear">Crear nueva tienda</a>
+<br />
+<br />
+<div class="input-group">
+    <input id="buscar" type="search" class="form-control rounded" placeholder="Buscar" aria-label="Search" aria-describedby="search-addon" />
+    @if (User.IsInRole(Constantes.RolAdmin)){
+        <button id="nombre" type="button" class="btn btn-outline-primary">Nombre</button>
+    }
+    
+    <button id="direccion" type="button" class="btn btn-outline-primary">Direccion</button>
+    <button id="telefono" type="button" class="btn btn-outline-primary">Telefono</button>
+</div>
+
+<table id="mitabla" class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Direccion)</th>
+            <th>@Html.DisplayNameFor(model => model.Telefono)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td id="sNombre">
+                    @Html.DisplayFor(mmodelItem => item.Nombre)
+                </td>
+                <td id="sDireccion">
+                    @Html.DisplayFor(mmodelItem => item.Direccion)
+                </td>
+                <td id="sTelefono">
+                    @Html.DisplayFor(mmodelItem => item.Telefono)
+                </td>
+                <td>
+                    @if (!User.IsInRole(Constantes.RolAdmin))
+                    {
+                        <a asp-action="Editar" asp-route-id="@item.Id">Editar</a>
+                        <a asp-action="Eliminar" asp-route-id="@item.Id">Eliminar</a>
+                    }
+                    <a asp-action="Detalle" asp-route-id="@item.Id">Ver detalle</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script type="text/javascript">
+    var busqueda = document.getElementById('buscar');
+    var tabla = document.getElementById('mitabla').tBodies[0];
+
+    function filtrarPorNombre() {
+        texto = busqueda.value.toLowerCase();
+        var r = 0;
+
+        while (row = tabla.rows[r++]) {
+            if (row.innerText.toLowerCase().indexOf(texto) !== -1) {
+                row.style.display = null;
+            } else {
+                row.style.display = 'none';
+            }
+        }
+    }
+    
+    busqueda.addEventListener('keyup', filtrarPorNombre);
+
+    /*
+        NOTA: Por cuestiones de tiempo, no se completaron los ajustes en el filtrado de tabla
+    */
+</script>

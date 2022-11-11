@@ -1,0 +1,20 @@
+Usuarios de prueba
+
+Rol Admin: 
+
+admin@gmail.com
+12345Ab!
+
+Rol Comun: 
+
+user01@outlook.com
+12345Ac!
+
+user02@gmail.com
+123456Ac!
+
+user03@gmail.com
+123457Ad!
+
+user04@outlook.com
+98765Ba!

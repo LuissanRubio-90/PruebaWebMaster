@@ -1,0 +1,250 @@
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.AssemblyReference.cache
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.AssemblyInfoInputs.cache
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.AssemblyInfo.cs
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.RazorAssemblyInfo.cache
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.RazorAssemblyInfo.cs
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\appsettings.json
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.staticwebassets.runtime.json
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.exe
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.deps.json
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.runtimeconfig.json
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.pdb
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\scopedcss\bundle\PruebaWebMaster.styles.css
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\scopedcss\projectbundle\PruebaWebMaster.bundle.scp.css
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\refint\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.pdb
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.genruntimeconfig.cache
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\ref\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisr\Desktop\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.CopyComplete
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\appsettings.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.staticwebassets.runtime.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.exe
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.deps.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.runtimeconfig.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.pdb
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.AssemblyReference.cache
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.AssemblyInfoInputs.cache
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.AssemblyInfo.cs
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.RazorAssemblyInfo.cache
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.RazorAssemblyInfo.cs
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\scopedcss\bundle\PruebaWebMaster.styles.css
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\scopedcss\projectbundle\PruebaWebMaster.bundle.scp.css
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.CopyComplete
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\refint\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.pdb
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.genruntimeconfig.cache
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\obj\Debug\net6.0\ref\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\luisr\Desktop\Backups\Bckp 1\PruebaWebMaster\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\appsettings.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.staticwebassets.runtime.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.exe
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.deps.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.runtimeconfig.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\PruebaWebMaster.pdb
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.AssemblyReference.cache
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.AssemblyInfoInputs.cache
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.AssemblyInfo.cs
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.RazorAssemblyInfo.cache
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.RazorAssemblyInfo.cs
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\scopedcss\bundle\PruebaWebMaster.styles.css
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\scopedcss\projectbundle\PruebaWebMaster.bundle.scp.css
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.csproj.CopyComplete
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\refint\PruebaWebMaster.dll
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.pdb
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\PruebaWebMaster.genruntimeconfig.cache
+C:\Users\luisr\Desktop\RepositorioWebMaster\PruebaWebMaster\obj\Debug\net6.0\ref\PruebaWebMaster.dll
